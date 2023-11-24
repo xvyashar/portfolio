@@ -1,0 +1,5 @@
+@use './sass/palette';
+
+body {
+    background-color: palette.$dark-background-color;
+}
